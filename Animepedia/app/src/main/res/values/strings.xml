@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Animepedia</string>
+    <string name="name_anime">Judul Anime</string>
+    <string name="synopsis_anime">Synopsis Anime</string>
+    <string name="airing">Airing and Episodes</string>
+
+    <string-array name="data_name">
+        <item>86 Part 2</item>
+        <item>Mushoku Tensei: Isekai Ittara Honki Dasu Part 2</item>
+        <item>One Piece</item>
+        <item>Kimetsu no Yaiba: Mugen Ressha-hen</item>
+        <item>Komi-san wa, Comyushou desu</item>
+        <item>Holo no Graffiti</item>
+        <item>Ousama Ranking</item>
+        <item>Detective Conan</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>TV (12 eps) Oct 2021 \nGenres: Action, Drama, Sci-Fi
+        </item>
+        <item>TV (12 eps) Oct 2021 \nGenres: Drama, Fantasy, Ecchi
+        </item>
+        <item>TV (? eps) Oct 1999 \nGenres: Action, Adventure, Comedy, Drama, Fantasy
+        </item>
+        <item>TV (7 eps) Oct 2021 - Nov 2021 \nGenre: Supernatural
+        </item>
+        <item>TV (? eps) Oct 2021 \nGenres: Comedy, Slice of Life
+        </item>
+        <item>ONA (? eps) May 2019 \nGenre: Comedy
+        </item>
+        <item>TV (23 eps) Oct 2021 \nGenres: Adventure, Fantasy
+        </item>
+        <item>TV (? eps) Jan 1996 \nGenres: Adventure, Comedy, Mystery
+        </item>
+    </string-array>
+
+    <string-array name="data_synopsis">
+        <item> TV (12 eps) Oct 2021 \n
+            Genres: Action, Drama, Sci-Fi \n
+            Score: 8.621 (scored by 18,482 users) \n
+            Ranked: #65 \n
+            Premiered: Fall 2021</item>
+        <item> TV (12 eps) Oct 2021 \n
+            Genres: Drama, Fantasy, Ecchi \n
+            Score: 8.631 (scored by 35,740 users) \n
+            Ranked: #622 \n
+            Premiered: Fall 2021</item>
+        <item> TV (? eps) Oct 1999 \n
+            Genres: Action, Adventure, Comedy, Drama, Fantasy \n
+            Score: 8.601 (scored by 938,720 users) \n
+            Ranked: #702 \n
+            Premiered: Fall 2021</item>
+        <item> TV (7 eps) Oct 2021 - Nov 2021 \n
+            Genre: Supernatural \n
+            Score: 8.561 (scored by 21,824 users) \n
+            Ranked: #882 \n
+            Premiered: Fall 2021</item>
+        <item> TV (? eps) Oct 2021 \n
+            Genres: Comedy, Slice of Life \n
+            Score: 8.52 (scored by 26,828 users) \n
+            Ranked: #102 \n
+            Premiered: Fall 2021</item>
+        <item> ONA (? eps) May 2019 \n
+            Genre: Comedy \n
+            Score: 8.47 (scored by 13,638 users) \n
+            Ranked: #126 \n
+            Premiered: Fall 2021</item>
+        <item> TV (23 eps) Oct 2021 \n
+            Genres: Adventure, Fantasy \n
+            Score: 8.26 (scored by 3,757 users) \n
+            Ranked: #257 \n
+            Premiered: Fall 2021</item>
+        <item> TV (? eps) Jan 1996 \n
+            Genres: Adventure, Comedy, Mystery \n
+            Score: 8.16 (scored by 132,903 users) \n
+            Ranked: #352 \n
+            Premiered: Fall 2021</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/lapanenam</item>
+        <item>@drawable/mushokutensei</item>
+        <item>@drawable/onepiece</item>
+        <item>@drawable/kimetsunoyaiba</item>
+        <item>@drawable/komisanwa</item>
+        <item>@drawable/holonogravity</item>
+        <item>@drawable/ousama</item>
+        <item>@drawable/detectiveconan</item>
+    </array>
+</resources>
