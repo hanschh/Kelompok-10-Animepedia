@@ -1,5 +1,7 @@
 # Kelompok-10-Animepedia
-
-# Muhammad Irfan Ardiansyah
-# Dota Ningtias
-# Hans Christian Herwanto
+## Deskripsi Aplikasi
+Aplikasi yang berisi tentang rekomendasi-rekomendasi kartun jepang.
+## Anggota Kelompok
+- Muhammad Irfan Ardiansyah
+- Dota Ningtias
+- Hans Christian Herwanto
